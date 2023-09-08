@@ -37,6 +37,3 @@ $ sudo python3 -i en0 tg_get_ip.py
 
 **PS.** Possible work with termux on android smartphones. Root authority is required to capture traffic.
 
-## Для русскоязыных пользователей
-
-Более подробно об утилите можно почитать у меня в блоге: https://n0a.pw/telegram-get-remote-ip/
